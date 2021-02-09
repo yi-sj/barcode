@@ -12,7 +12,8 @@
   "dependencies": {
     "core-js": "^3.8.2",
     "nuxt": "^2.14.12",
-    "vue-barcode-reader": "0.0.3"
+    "vue-barcode-reader": "0.0.3",
+    "vue-pinch-zoom": "^1.0.1"
   },
   "devDependencies": {
     "@nuxtjs/vuetify": "^1.11.3",
